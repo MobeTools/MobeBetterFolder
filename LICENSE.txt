@@ -25,7 +25,7 @@ THIRD-PARTY NOTICE:
 This software integrates or uses components of “DataChat”,
 developed by:
 - Moritz Schneider
-- Benedikt Keil
+- Benedikt Keijl
 
 DISCLAIMER:
 THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -38,3 +38,4 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
 
 Contact:
 Moritz Schneider
+
