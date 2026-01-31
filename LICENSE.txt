@@ -1,0 +1,40 @@
+BETTERFOLDER — PROPRIETARY LICENSE
+ALL RIGHTS RESERVED
+
+Copyright (c) 2026
+Moritz Schneider
+
+All rights reserved.
+
+This software (“BetterFolder”, including BetterFolder.exe and all related
+files) is proprietary software. No part of this software may be copied,
+modified, reverse engineered, decompiled, distributed, or reused in any
+form without explicit written permission from the copyright holder.
+
+PERMITTED:
+- You may download and use the official release version for personal use.
+- You may share the original, unmodified release ZIP file.
+
+NOT PERMITTED:
+- Modification or redistribution of modified versions
+- Commercial use without permission
+- Reverse engineering, decompiling, or disassembling
+- Rebranding or reselling of this software
+
+THIRD-PARTY NOTICE:
+This software integrates or uses components of “DataChat”,
+developed by:
+- Moritz Schneider
+- Benedikt Keil
+
+DISCLAIMER:
+THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
+
+Contact:
+Moritz Schneider
