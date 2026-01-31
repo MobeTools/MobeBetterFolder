@@ -22,7 +22,7 @@ NOT PERMITTED:
 - Rebranding or reselling of this software
 
 THIRD-PARTY NOTICE:
-This software integrates or uses components of “DataChat”,
+This software integrates or uses components of “MobeRoute”,
 developed by:
 - Moritz Schneider
 - Benedikt Keijl
@@ -38,4 +38,5 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
 
 Contact:
 Moritz Schneider
+
 
