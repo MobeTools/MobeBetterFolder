@@ -1,42 +1,158 @@
-BETTERFOLDER — PROPRIETARY LICENSE
-ALL RIGHTS RESERVED
+📄 BETTERFOLDER — PROPRIETARY LICENSE / NUTZUNGS- UND RECHTEHINWEIS
 
-Copyright (c) 2026
+ALL RIGHTS RESERVED / ALLE RECHTE VORBEHALTEN
+
+Copyright © 2026
+
 Moritz Schneider
 
-All rights reserved.
+1. Projekt
 
-This software (“BetterFolder”, including BetterFolder.exe and all related
-files) is proprietary software. No part of this software may be copied,
-modified, reverse engineered, decompiled, distributed, or reused in any
-form without explicit written permission from the copyright holder.
+Name: BetterFolder (alle Versionen: v1.0, v2.0, zukünftige Releases)
+Enthält: BetterFolder.exe, EmojiExplorerCpp und alle zugehörigen Dateien
 
-PERMITTED:
-- You may download and use the official release version for personal use.
-- You may share the original, unmodified release ZIP file.
+2. Urheberrecht / Intellectual Property
 
-NOT PERMITTED:
-- Modification or redistribution of modified versions
-- Commercial use without permission
-- Reverse engineering, decompiling, or disassembling
-- Rebranding or reselling of this software
+Dieses Projekt ist geistiges Eigentum von Moritz Schneider.
 
-THIRD-PARTY NOTICE:
-This software integrates or uses components of “MobeRoute”,
-developed by:
-- Moritz Schneider
-- Benedikt Keijl
+Dies umfasst insbesondere:
 
-DISCLAIMER:
-THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Quellcode
 
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
+Programmstruktur
 
-Contact:
+Benutzeroberfläche
+
+Skripte
+
+Build-Dateien
+
+Konzepte
+
+Texte und Grafiken
+
+Alle sonstigen Projektbestandteile
+
+Alle Rechte verbleiben beim Urheber.
+
+3. Lizenzart / License Type
+
+Proprietary Software – Closed Source
+
+Diese Software ist nicht Open Source.
+
+Die Nutzung unterliegt ausschließlich dieser Lizenz.
+
+4. Erlaubte Nutzung / Permitted Use
+
+✔ Erlaubt ist:
+
+Download und Nutzung der offiziellen Release-Version
+
+Private, nicht-kommerzielle Nutzung
+
+Weitergabe der unveränderten Original-ZIP-Datei
+
+5. Verbotene Nutzung / Not Permitted
+
+❌ Ohne schriftliche Genehmigung ist untersagt:
+
+Modifikation des Programms
+
+Weitergabe veränderter Versionen
+
+Reverse Engineering
+
+Decompiling / Disassembling
+
+Rebranding oder Umbenennung
+
+Weiterverkauf
+
+Vermietung
+
+Kommerzielle Nutzung
+
+Veröffentlichung auf Plattformen (z. B. GitHub, Cloud, Foren)
+
+Darstellung als eigenes Werk
+
+6. Weitergabe / Redistribution
+
+Eine Weitergabe an Dritte ist nur in Originalform und ohne Änderungen erlaubt.
+
+Jegliche andere Weitergabe bedarf der ausdrücklichen Zustimmung des Urhebers.
+
+7. Third-Party Notice / Drittanbieter-Hinweis
+
+Dieses Projekt integriert oder nutzt Komponenten von:
+
+MobeRoute
+Entwickler:
+
 Moritz Schneider
 
+Benedikt Keijl
+
+Alle Rechte an diesen Komponenten verbleiben bei den jeweiligen Entwicklern.
+
+8. Haftungsausschluss / Disclaimer
+
+THIS SOFTWARE IS PROVIDED “AS IS”.
+
+Die Software wird ohne Gewährleistung bereitgestellt.
+
+Es wird keine Haftung übernommen für:
+
+Datenverlust
+
+Schäden
+
+Systemausfälle
+
+Folgeschäden
+
+Nutzungsausfälle
+
+Soweit gesetzlich zulässig.
+
+9. Haftung / Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE
+for any claim, damages or other liability.
+
+Der Urheber haftet nicht für direkte oder indirekte Schäden.
+
+10. Kontakt / Permissions
+
+Für:
+
+Sondernutzungen
+
+Kommerzielle Nutzung
+
+Kooperationen
+
+Lizenzerweiterungen
+
+ist eine schriftliche Zustimmung erforderlich.
+
+Kontakt:
+Moritz Schneider
+
+11. Geltungsbereich / Scope
+
+Diese Lizenz gilt für:
+
+✔ Alle Versionen von BetterFolder
+✔ Alle zukünftigen Releases
+✔ Alle Ableger und Module
+✔ Alle Distributionsformen
+
+sofern nicht schriftlich anders vereinbart.
+
+12. Rechtlicher Hinweis
+
+Diese Datei stellt einen allgemeinen Nutzungs- und Rechtehinweis dar
+und ersetzt keine individuelle Rechtsberatung.
 
